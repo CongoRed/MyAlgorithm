@@ -52,9 +52,3 @@ public:
         return str;
     }
 };
-
-int main(){
-    Solution s;
-    cout<<s.countAndSay(1)<<endl;
-    getchar();
-}

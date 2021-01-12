@@ -33,9 +33,3 @@ public:
         return str;
     }
 };
-
-int main(){
-    Solution s;
-    cout<<s.addBinary("11","1")<<endl;
-    getchar();
-}
