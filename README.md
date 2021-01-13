@@ -5,4 +5,9 @@
 ### ...
 ## 更新日志
 ### 2021.01.13
+1.[反转链表](https://github.com/CongoRed/MyAlgorithm/blob/master/ReverseList.h)
+
+2.[反转链表2](https://github.com/CongoRed/MyAlgorithm/blob/master/ReverseBetween.h)
+
+附 -- [力扣刷题总结之链表](https://leetcode-cn.com/circle/article/YGr54o/) 期待将里面的题目刷完
 ### 2021. ...
