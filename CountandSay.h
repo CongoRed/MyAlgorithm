@@ -3,7 +3,7 @@
 #include<queue>
 #include<string>
 
-/* 数数并说
+/* 外观数列   LeetCode 38
 1.     1
 2.     11
 3.     21
