@@ -1,7 +1,6 @@
-#include<iostream>
-// #include"AddBinary.h"
+//²âÊÔ×¨ÓÃ
+#include<bits/stdc++.h>
 using namespace std;
-
 
 int main(){
     getchar();
