@@ -1,3 +1,5 @@
+#ifndef _AddTwoNumber_
+#define _AddTwoNumber_
 #include<iostream>
 using namespace std;
 
@@ -39,3 +41,5 @@ public:
         return new_list_head;
     }
 };
+
+#endif

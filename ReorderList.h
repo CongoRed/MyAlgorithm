@@ -1,3 +1,5 @@
+#ifndef _ReorderList_
+#define _ReorderList_
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -41,3 +43,4 @@ public:
     }
 };
 
+#endif

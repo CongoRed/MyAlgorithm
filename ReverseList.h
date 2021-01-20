@@ -1,3 +1,5 @@
+#ifndef _ReverseList_
+#define _ReverseList_
 #include<iostream>
 using namespace std;
 //链表反转
@@ -20,3 +22,5 @@ public:
         return new_head;
     }
 };
+
+#endif

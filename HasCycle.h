@@ -1,3 +1,5 @@
+#ifndef _HasCycle_
+#define _HasCycle_
 #include<iostream>
 using namespace std;
 
@@ -33,3 +35,5 @@ public:
         return true;
     }
 };
+
+#endif

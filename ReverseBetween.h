@@ -1,3 +1,5 @@
+#ifndef _ReverseBetween_
+#define _ReverseBetween_
 #include<iostream>
 using namespace std;
 
@@ -61,3 +63,5 @@ public:
     //     return dummy->next;
     // }
 };
+
+#endif

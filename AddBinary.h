@@ -1,3 +1,5 @@
+#ifndef _AddBinary_
+#define _AddBinary_
 #include<iostream>
 #include<string>
 #include<stack>
@@ -33,3 +35,5 @@ public:
         return str;
     }
 };
+
+#endif

@@ -1,3 +1,5 @@
+#ifndef _RemoveNthFromEnd_
+#define _RemoveNthFromEnd_
 #include<iostream>
 using namespace std;
 
@@ -28,3 +30,5 @@ public:
         return head;
     }
 };
+
+#endif

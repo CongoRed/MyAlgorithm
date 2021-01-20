@@ -1,3 +1,5 @@
+#ifndef _Partiton_
+#define _Partition_
 #include<iostream>
 using namespace std;
 
@@ -36,3 +38,5 @@ public:
         return small -> next;
     }
 };
+
+#endif

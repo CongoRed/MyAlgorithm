@@ -1,3 +1,5 @@
+#ifndef _CountAndSay_
+#define _CountAndSay_
 #include<iostream>
 #include<stack>
 #include<queue>
@@ -52,3 +54,5 @@ public:
         return str;
     }
 };
+
+#endif
