@@ -19,6 +19,7 @@ struct ListNode {
 class Solution {
 public:
     void reorderList(ListNode* head) {
+		if(!head) return;
 		ListNode *temp = head;
 		vector<ListNode*> v;
 		int left = 0, right = 0;
@@ -32,7 +33,7 @@ public:
 			v[left] -> next = v[right];
 			left ++;
 			if(left == right)	break;
-			v[right] -> next = v[right];
+			v[right] -> next = v[left];
 			right -- ;
 		}
 		v[left] -> next = nullptr;
