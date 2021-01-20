@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-	cout<<"ubuntu提交测试"<<endl;
+	cout<<"ubuntu系统提交测试"<<endl;
 	return 0;
 }
