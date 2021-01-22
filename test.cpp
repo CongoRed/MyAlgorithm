@@ -1,4 +1,3 @@
-//²âÊÔ×¨ÓÃ
 #include <bits/stdc++.h>
 #include"ReorderList.h"
 
