@@ -12,7 +12,7 @@
 
 附 -- [力扣刷题总结之链表](https://leetcode-cn.com/circle/article/YGr54o/) 期待将里面的题目刷完
 ### 2021.01.14
-1.[删除链表倒数第N个节点](https://github.com/CongoRed/MyAlgorithm/blob/master/RemoveNthFromEnd.h)
+1.[删除链表倒数第n个节点](https://github.com/CongoRed/MyAlgorithm/blob/master/RemoveNthFromEnd.h)
 
 2.[分割链表](https://github.com/CongoRed/MyAlgorithm/blob/master/Partition.h)
 
